@@ -2,7 +2,7 @@
     "objectscript.conn": {
     "active": true,
     "ns": "USER",
-    "server":"ensemble",
+    "server":"ens2",
     "links": {
         "terminal":"http://localhost:57772/terminal/"
     }
